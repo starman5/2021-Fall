@@ -1,3 +1,5 @@
+#Checking to see if push works
+
 class BinarySearchTree:
     # left: BinarySearchTree
     # right: BinarySearchTree
